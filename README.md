@@ -1,21 +1,26 @@
 URL shortening
 
-dependencies
+project dependencies
+**********************************
 python3
 pip3
 flask
 flask-restful
+*****************************
 
 Installation
+*************************************
 https://www.python.org/downloads/release/python-387/
 https://pip.pypa.io/en/stable/installing/
 
-
+Setup environment
+**************************
 $ python3 -m venv env
 $ source env/bin/activate
 (env) $ pip3 install flask-restful
 
 To start project
+*****************************
 open a terminal
 cd into the cloned directory:
 
