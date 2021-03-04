@@ -52,6 +52,7 @@ class DecodeUrl(Resource):
         return url.decode(args.url)
 
 
+#The Service endpoints
 api.add_resource(EncodeUrl, '/encode')    
 
 api.add_resource(DecodeUrl, '/decode')    
