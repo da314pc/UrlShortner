@@ -36,3 +36,13 @@ To decode the url, Use the sample request below and replace http://short.com/UB4
 
 curl http://localhost:5000/decode -d "url=http://short.com/UB4fH4"
 
+
+Time Spent:
+20 mins to install python, pip, 
+
+20 mins to plan project, framework, etc.
+
+30 mins to create and test algorithm
+
+20 mins to integrate into  a web service using flask and flask-restful
+
